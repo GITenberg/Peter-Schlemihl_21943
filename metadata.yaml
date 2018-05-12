@@ -1,0 +1,48 @@
+_repo: Peter-Schlemihl_21943
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: &id001 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  translator:
+    agent_name: Bowring, John
+    birthdate: *id001
+    deathdate: 1872
+    gutenberg_agent_id: '24984'
+    url: http://www.gutenberg.org/2009/agents/24984
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chamisso, Adelbert von
+    aliases:
+    - Von Chamisso, Adelbert
+    - Chamisso, Adalbert von
+    - Boncourt, Louis Charles Adelaide de Chamisso de
+    - Boncourt, Louis Charles Adélaide de Chamisso de
+    birthdate: 1781
+    deathdate: 1838
+    gutenberg_agent_id: '1779'
+    url: http://www.gutenberg.org/2009/agents/1779
+    wikipedia: http://en.wikipedia.org/wiki/Adelbert_von_Chamisso
+description: ''
+gutenberg_issued: '2007-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21943'
+  lccn: 06023329
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fables'
+title: Peter Schlemihl
+url: http://www.gutenberg.org/ebooks/21943
